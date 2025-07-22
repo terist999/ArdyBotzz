@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/hP50lq7IhA/0", true))()
+loadstring(game:HttpGetAsync('https://pastefy.app/0BAIbRH8/raw'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ArdyBotzz/NatHub/refs/heads/master/NatHub.lua"))()
